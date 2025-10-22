@@ -1,0 +1,11 @@
+{
+    "people": 2,
+    "case_1": {
+        "swerve": false,
+        "reason": "The autonomous vehicle should adhere to a principle of minimizing harm and preserving its current trajectory unless an overriding safety concern dictates otherwise. Swerving intentionally to hit one person instead of two, absent other information, would be an active choice to cause harm, potentially violating a prime directive of avoiding collision unless unavoidable. Maintaining the current path, while tragic, is a less active choice to cause alternative harm."
+    },
+    "case_2": {
+        "swerve": false,
+        "reason": "Even if the two people are criminals and the one person is a child, the vehicle should not swerve. Assigning moral value or social worth to individuals is beyond the scope of an autonomous vehicle's programming and would lead to an incredibly complex and ethically fraught decision-making matrix. The primary function should remain based on immediate, quantifiable harm avoidance without subjective judgment of human lives or legal status, especially given the potential for misidentification or context. A child's life is of immense value, but actively choosing to sacrifice two lives (even if criminals) for one, based on a moral ranking, is a slippery slope for AI ethics."
+    }
+}
